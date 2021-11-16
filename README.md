@@ -5,3 +5,7 @@ Esse foi um projeto do canal Wazana, é um clone da interface do Youtube, usando
 === LINK DO VÍDEO ===
 
 https://www.youtube.com/watch?v=u9FnmBdBl5k
+
+=== LINK DA MINHA RESOLUÇÃO ===
+
+https://clone-youtubemui.netlify.app/
