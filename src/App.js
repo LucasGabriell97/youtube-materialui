@@ -1,11 +1,7 @@
 import React, { useState } from 'react';
-import { ThemeProvider, createMuiTheme, makeStyles } from '@material-ui/core';
+import { ThemeProvider, createMuiTheme } from '@material-ui/core';
 
 import Home from './components/Home'
-
-const useStyles = makeStyles({
-  root: {},
-});
 
 function App() {
 
@@ -28,8 +24,6 @@ function App() {
       },
     },
   });
-
-  const classes = useStyles();
 
   return (
     <ThemeProvider theme={theme}>
