@@ -1,16 +1,22 @@
-=== SOBRE O PROJETO ===
+<h1 align="center">
+  💻<br>Youtube Material-UI
+</h1>
 
-Esse foi um projeto do canal Wazana, é um clone da interface do Youtube, usando React.js com Material UI. Resolvi fazer esse projeto na intenção de conhecer e aprender um pouco sobre o Material UI, pois é uma ferramenta que nunca utilizei antes, mas pretendo me aprofundar nela.
+<div align="center">
+  <img src="./public/imgs/project-view.png" alt="Imagem do projeto Youtube Material-UI">
+</div>
 
-=== FRAMEWORKS / BIBLIOTECAS ===
+<h4 align="center"><a href="https://clone-youtubemui.netlify.app/" target="_blank">Clique para visitar o projeto</a></h4>
 
-1. React.js
-2. Material-UI
+## 📚 Sobre o projeto
 
-=== LINK DO VÍDEO ===
+Esse foi um projeto do canal <strong>Wazana</strong>, é um clone da interface do Youtube, usando React.js com Material UI. Resolvi fazer esse projeto na intenção de conhecer e aprender um pouco sobre o Material UI. 🚀
+
+## 🛠️ Tecnologias utilizadas
+
+- React.JS;
+- Material-UI;
+
+## 🔗 Link do vídeo
 
 https://www.youtube.com/watch?v=u9FnmBdBl5k
-
-=== MINHA RESOLUÇÃO ===
-
-https://clone-youtubemui.netlify.app/
