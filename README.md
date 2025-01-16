@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Youtube Material-UI
+  🎥<br>Youtube Material-UI
 </h1>
 
 <div align="center">
@@ -14,9 +14,9 @@ Esse foi um projeto do canal <strong>Wazana</strong>, é um clone da interface d
 
 ## 🛠️ Tecnologias utilizadas
 
-- React.JS;
-- Material-UI;
+- React.JS
+- Material-UI
 
 ## 🔗 Link do vídeo
 
-https://www.youtube.com/watch?v=u9FnmBdBl5k
+<a href="https://www.youtube.com/watch?v=u9FnmBdBl5k" target="_blank">Clique para visitar a aula</a>
